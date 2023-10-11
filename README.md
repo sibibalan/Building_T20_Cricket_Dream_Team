@@ -9,22 +9,27 @@ Welcome to my T20 Cricket Dream Team project, where i have curated the perfect 1
 ### Data Collection
 
 The foundation of my project started with web scraping. I collected raw data from the ESPN website using the powerful Beautiful Soup library. This data served as the starting point for my cricket dream team selection process.
+
 ![Web Scraping Notebook](https://github.com/sibibalan/Building_T20_Cricket_Dream_Team/tree/main/Web_Scraping_T20_Cricket_World_Cup.ipynb)
 
 ### Data Preprocessing and Transformation
 
 The raw data, although valuable, needed some refinement to be useful. I turned to the magic of data manipulation with Pandas and Power Query (Power BI) to preprocess and transform the data. This step was crucial in ensuring that i had a clean and structured dataset to work with.
+
 ![Preprocessing Notebook](https://github.com/sibibalan/Building_T20_Cricket_Dream_Team/tree/main/T20_WC_Data_Preprocessing.ipynb)
 
 ### Data Visualization Dashboard
 
 The transformed data came to life in the form of an interactive and insightful Data Visualization Dashboard, created using Power BI. This dashboard not only helped me analyze player statistics but also made the decision-making process more engaging.
 
-![Power BI Dashboard](https://github.com/sibibalan/Building_T20_Cricket_Dream_Team/tree/main/Screens)
+![Power BI Dashboard](https://github.com/sibibalan/Building_T20_Cricket_Dream_Team/tree/main/T20_WC_Analysis_Report)
+
+![Dashboard Screenshots](https://github.com/sibibalan/Building_T20_Cricket_Dream_Team/tree/main/Screens)
+
 
 ### Player Selection Process
 
-The final and most exciting step was selecting the 11 players that make up my T20 Cricket Dream Team. The selection process was guided by the analysis i conducted in Power BI and the flexibility offered by ![Parameter Scoping](https://github.com/sibibalan/Building_T20_Cricket_Dream_Team/tree/main/Parameter_scoping). We considered a variety of factors, including batting and bowling performance, fielding skills, and the ability to thrive under pressure.Go through the ![Insights](https://github.com/sibibalan/Building_T20_Cricket_Dream_Team/tree/main/Insights) to know more about the analysis
+The final and most exciting step was selecting the 11 players that make up my T20 Cricket Dream Team. The selection process was guided by the analysis i conducted in Power BI and the flexibility offered by ![Parameter Scoping](https://github.com/sibibalan/Building_T20_Cricket_Dream_Team/tree/main/Parameter_Scoping). We considered a variety of factors, including batting and bowling performance, fielding skills, and the ability to thrive under pressure.Go through the ![Insights](https://github.com/sibibalan/Building_T20_Cricket_Dream_Team/tree/main/Insights) to know more about the analysis
 
 ## Meet the Team
 
